@@ -1,0 +1,16 @@
+---
+services:
+  db:
+    container_name: mysqldb
+    build: ./backend
+    ports:
+      - "3306:3306"
+
+  app:
+    container_name: bloodbank
+    build: .
+    ports:
+      - "1234:80"
+    depends_on:
+      - db
+
