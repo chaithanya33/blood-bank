@@ -123,7 +123,7 @@ NOTE: Add donors table name to index.php and add admin table name to indexadmin.
 
 <img width="1918" height="997" alt="Screenshot 2025-11-25 174153" src="https://github.com/user-attachments/assets/21fe2a52-12df-4969-ab3c-e1edaac31423" />
 
-<img width="980" height="392" alt="Screenshot 2025-11-25 174330" src="https://github.com/user-attachments/assets/f9ae7bdc-0390-42bd-8ef3-14566c0f1294" />
+
 
 
 <img width="1824" height="894" alt="Screenshot 2025-11-25 175834" src="https://github.com/user-attachments/assets/647e3975-959d-41b4-91bf-ccdb396daf46" />
